@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @DSP-Tan
-- 👀 I’m interested in computational solid state physics
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in computational solid state physics and machine learning
 - 📫 How to reach me: danielsptanner@gmail.com
 
 <!---
